@@ -1,1 +1,1 @@
-# researchsamm.github.io
+theme: slate
